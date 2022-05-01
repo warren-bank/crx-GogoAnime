@@ -1,20 +1,9 @@
 // ==UserScript==
 // @name         Vidstreaming
 // @description  Watch videos in external player.
-// @version      1.0.7
-// @match        *://streamani.net/*
-// @match        *://*.streamani.net/*
-// @match        *://vidstreaming.io/*
-// @match        *://*.vidstreaming.io/*
-// @match        *://gogo-play.net/*
-// @match        *://*.gogo-play.net/*
-// @match        *://gogo-stream.com/*
-// @match        *://*.gogo-stream.com/*
-// @match        *://gogoanime.ai/*
-// @match        *://*.gogoanime.ai/*
-// @match        *://gogoplay1.com/*
-// @match        *://*.gogoplay1.com/*
-// @icon         https://streamani.net/favicon.png
+// @version      1.0.8
+// @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:vidstreaming\.io|streamani\.net|gogo-play\.net|gogo-stream\.com|gogoanime\.ai|gogoplay1\.com|goload\.pro)\/.*$/
+// @icon         https://gogoplay1.com/favicon.png
 // @run-at       document-end
 // @homepage     https://github.com/warren-bank/crx-Vidstreaming/tree/webmonkey-userscript/es5
 // @supportURL   https://github.com/warren-bank/crx-Vidstreaming/issues
