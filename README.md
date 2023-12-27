@@ -1,11 +1,11 @@
-### [Vidstreaming](https://github.com/warren-bank/crx-Vidstreaming/tree/webmonkey-userscript/es5)
+### [Gogo Anime](https://github.com/warren-bank/crx-GogoAnime/tree/webmonkey-userscript/es5)
 
-[Userscript](https://github.com/warren-bank/crx-Vidstreaming/raw/webmonkey-userscript/es5/webmonkey-userscript/Vidstreaming.user.js) to run in both:
+[Userscript](https://github.com/warren-bank/crx-GogoAnime/raw/webmonkey-userscript/es5/webmonkey-userscript/GogoAnime.user.js) to run in both:
 * the [WebMonkey](https://github.com/warren-bank/Android-WebMonkey) application for Android
 * the [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) web browser extension for Chrome/Chromium
 
 Its purpose is to:
-* redirect embedded _anime_ videos from [vidstreaming.io](https://vidstreaming.io/) to an external player
+* redirect embedded _anime_ videos from [gogoanime.com.co](https://gogoanime.com.co/) to an external player
 
 #### Legal:
 

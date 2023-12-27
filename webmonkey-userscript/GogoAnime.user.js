@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Vidstreaming
+// @name         Gogo Anime
 // @description  Watch videos in external player.
-// @version      1.0.8
-// @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:vidstreaming\.io|streamani\.net|gogo-play\.net|gogo-stream\.com|gogoanime\.ai|gogoplay1\.com|goload\.pro)\/.*$/
-// @icon         https://gogoplay1.com/favicon.png
+// @version      1.0.9
+// @include      /^https?:\/\/(?:[^\.\/]*\.)*(?:vidstreaming\.(?:io)|streamani\.(?:net)|gogo-play\.(?:net)|gogo-stream\.(?:com)|gogoplay1\.(?:com)|goload\.(?:pro)|gogoanime\.(?:ai|me|com\.co)|gogoanimes\.(?:org|fi)|gogoanime2\.(?:org)|gogotaku\.(?:info))\/.*$/
+// @icon         https://gogoanime.me/assets/favicon.ico
 // @run-at       document-end
-// @homepage     https://github.com/warren-bank/crx-Vidstreaming/tree/webmonkey-userscript/es5
-// @supportURL   https://github.com/warren-bank/crx-Vidstreaming/issues
-// @downloadURL  https://github.com/warren-bank/crx-Vidstreaming/raw/webmonkey-userscript/es5/webmonkey-userscript/Vidstreaming.user.js
-// @updateURL    https://github.com/warren-bank/crx-Vidstreaming/raw/webmonkey-userscript/es5/webmonkey-userscript/Vidstreaming.user.js
+// @homepage     https://github.com/warren-bank/crx-GogoAnime/tree/webmonkey-userscript/es5
+// @supportURL   https://github.com/warren-bank/crx-GogoAnime/issues
+// @downloadURL  https://github.com/warren-bank/crx-GogoAnime/raw/webmonkey-userscript/es5/webmonkey-userscript/GogoAnime.user.js
+// @updateURL    https://github.com/warren-bank/crx-GogoAnime/raw/webmonkey-userscript/es5/webmonkey-userscript/GogoAnime.user.js
 // @namespace    warren-bank
 // @author       Warren Bank
 // @copyright    Warren Bank
